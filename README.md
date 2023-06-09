@@ -24,7 +24,6 @@
     
 ![Maintainer](https://img.shields.io/badge/maintainer-theMaintainer-blue)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-![Profile views](https://gpvc.arturio.dev/amiralirashidi)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
     
     
