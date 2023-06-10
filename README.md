@@ -1,6 +1,6 @@
 <div align="center">
     
-    # Hi! <img height="25px" width="23px" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm AmirAli Rashidi     
+# Hi! <img height="25px" width="23px" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm AmirAli Rashidi     
     
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
     
-    ## See My [WebPage](https://amiralirashidi.github.com)
+## See My [WebPage](https://amiralirashidi.github.com)
     
 </div>
 
